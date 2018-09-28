@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Leaon&#39;s Blog</title>
   
-  
+  <subtitle>一个爱好代码的菜鸟</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
