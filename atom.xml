@@ -5,9 +5,9 @@
   <subtitle>生命不息，折腾不止</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://jianyunqin.github.io/"/>
+  <link href="http://leaon.xyz/"/>
   <updated>2018-09-29T16:16:46.178Z</updated>
-  <id>http://jianyunqin.github.io/</id>
+  <id>http://leaon.xyz/</id>
   
   <author>
     <name>Leaon</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>如何利用Github与Hexo搭建一个独立博客</title>
-    <link href="http://jianyunqin.github.io/:/blog/2018/09/28/my-blog/"/>
-    <id>http://jianyunqin.github.io/:/blog/2018/09/28/my-blog/</id>
+    <link href="http://leaon.xyz/:/blog/2018/09/28/my-blog/"/>
+    <id>http://leaon.xyz/:/blog/2018/09/28/my-blog/</id>
     <published>2018-09-28T15:47:44.000Z</published>
     <updated>2018-09-29T16:16:46.178Z</updated>
     
@@ -34,17 +34,17 @@
     
     </summary>
     
-      <category term="Hexo" scheme="http://jianyunqin.github.io/categories/Hexo/"/>
+      <category term="Hexo" scheme="http://leaon.xyz/categories/Hexo/"/>
     
     
-      <category term="爱折腾" scheme="http://jianyunqin.github.io/tags/%E7%88%B1%E6%8A%98%E8%85%BE/"/>
+      <category term="爱折腾" scheme="http://leaon.xyz/tags/%E7%88%B1%E6%8A%98%E8%85%BE/"/>
     
   </entry>
   
   <entry>
     <title>小白技术之用github搭建一个高端免费博客</title>
-    <link href="http://jianyunqin.github.io/:/blog/2018/09/28/hello-world/"/>
-    <id>http://jianyunqin.github.io/:/blog/2018/09/28/hello-world/</id>
+    <link href="http://leaon.xyz/:/blog/2018/09/28/hello-world/"/>
+    <id>http://leaon.xyz/:/blog/2018/09/28/hello-world/</id>
     <published>2018-09-28T13:32:55.081Z</published>
     <updated>2018-09-29T15:56:13.771Z</updated>
     
@@ -59,10 +59,10 @@
     
     </summary>
     
-      <category term="Hexo博客" scheme="http://jianyunqin.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/"/>
+      <category term="Hexo博客" scheme="http://leaon.xyz/categories/Hexo%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="爱折腾" scheme="http://jianyunqin.github.io/tags/%E7%88%B1%E6%8A%98%E8%85%BE/"/>
+      <category term="爱折腾" scheme="http://leaon.xyz/tags/%E7%88%B1%E6%8A%98%E8%85%BE/"/>
     
   </entry>
   
